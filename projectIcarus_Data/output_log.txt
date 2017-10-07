@@ -1,0 +1,118 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 (ID=0x1201)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Adrian\Dropbox\Projects\Simulated Intelligence\projectIcarus_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Adrian\Dropbox\Projects\Simulated Intelligence\projectIcarus_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Adrian\Dropbox\Projects\Simulated Intelligence\projectIcarus_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Adrian\Dropbox\Projects\Simulated Intelligence\projectIcarus_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Adrian\Dropbox\Projects\Simulated Intelligence\projectIcarus_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Adrian\Dropbox\Projects\Simulated Intelligence\projectIcarus_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Adrian\Dropbox\Projects\Simulated Intelligence\projectIcarus_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Adrian\Dropbox\Projects\Simulated Intelligence\projectIcarus_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.824 seconds
+Platform assembly: C:\Users\Adrian\Dropbox\Projects\Simulated Intelligence\projectIcarus_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Adrian\Dropbox\Projects\Simulated Intelligence\projectIcarus_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 82.148033 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6d0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+The tree TreeTall must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeTall must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeTall must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeWide must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeWide must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeWide must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeOak must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeOak must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeOak must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeOak must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeOak must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Rock1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Rock1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree Rock1 must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeTrunk must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeTrunk must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+The tree TreeTrunk must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 181)
+
+UnloadTime: 4.291412 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 471.
+Total: 0.314552 ms (FindLiveObjects: 0.018879 ms CreateObjectMapping: 0.010239 ms MarkObjects: 0.221434 ms  DeleteObjects: 0.062718 ms)
+
+Binding Mage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Binding Archer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Binding Knight
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 25.101454 ms
+
+Unloading 328 unused Assets to reduce memory usage. Loaded Objects now: 226.
+Total: 1.517722 ms (FindLiveObjects: 0.033279 ms CreateObjectMapping: 0.013119 ms MarkObjects: 0.189115 ms  DeleteObjects: 1.281568 ms)
+
